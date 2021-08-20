@@ -1,0 +1,8 @@
+Config
+->VC++ Directories
+-->Include Dir: C:\openGL\include;
+-->Lib Dir: C:\openGL\lib;
+
+Linker
+->Input
+-->Add Dep: glfw3.lib;opengl32.lib;
